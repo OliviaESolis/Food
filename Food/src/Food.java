@@ -35,5 +35,6 @@ public class Food
 		default:
 			System.out.println("I am not fimiliar with that kind");
 		}
+		System.out.println("goodbye I hope you enjoyed your meal ");
 	}
 }
