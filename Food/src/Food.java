@@ -32,6 +32,8 @@ public class Food
 			break;
 		case "Greek":
 			System.out.println("You should have Spanakopita (flaky pastry filled with spinach and feta cheese). ");
+		case "Bolivian":
+			System.out.println("You should have SSaltena (flaky pastry filled with spinach and feta cheese). ");
 		default:
 			System.out.println("I am not fimiliar with that kind");
 		}
