@@ -12,6 +12,9 @@ public class Food
 		case "Mexican":
 			System.out.println("You should have Birria Tacos (tacos filled with fall apart juicy meant and the taco is dipped in a thin layer of fat. ");
 			break;
+		case "Brazilian":
+			System.out.println(" ");
+			break;
 		case "Italian":
 			System.out.println("You should have Pesce Fritto Al Cono (A variaty of fried fish in a cone). ");
 			break;
